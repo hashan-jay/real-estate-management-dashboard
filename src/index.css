@@ -176,39 +176,6 @@ button {
   flex-shrink: 0;
 }
 
-.upgrade-card {
-  margin-top: auto;
-  padding: 1rem;
-  border-radius: var(--radius-md);
-  background:
-    linear-gradient(160deg, rgba(14, 107, 86, 0.12), rgba(42, 111, 151, 0.08)),
-    var(--surface);
-  border: 1px solid var(--border);
-}
-
-.upgrade-card h3 {
-  margin: 0.4rem 0 0.25rem;
-  font-family: var(--font-display);
-  font-size: 1rem;
-}
-
-.upgrade-card p {
-  margin: 0 0 0.85rem;
-  color: var(--muted);
-  font-size: 0.82rem;
-  line-height: 1.4;
-}
-
-.upgrade-icon {
-  width: 34px;
-  height: 34px;
-  border-radius: 10px;
-  display: grid;
-  place-items: center;
-  background: #f3e3b8;
-  color: #8a6810;
-}
-
 .main-area {
   min-width: 0;
   display: flex;

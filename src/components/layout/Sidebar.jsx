@@ -8,7 +8,6 @@ import {
   CalendarDays,
   MessageSquare,
   FileText,
-  Crown,
 } from '../Icons'
 
 const navItems = [
@@ -49,17 +48,6 @@ export default function Sidebar({ activePage, onNavigate, open }) {
           </button>
         ))}
       </nav>
-
-      <div className="upgrade-card">
-        <div className="upgrade-icon">
-          <Crown size={16} />
-        </div>
-        <h3>Upgrade Plan</h3>
-        <p>Unlock AI listing insights, portfolio forecasting, and team automations.</p>
-        <button type="button" className="btn btn-primary" style={{ width: '100%' }}>
-          Upgrade Now
-        </button>
-      </div>
     </aside>
   )
 }

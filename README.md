@@ -1,4 +1,4 @@
-# Ceylon Estate Max — Real Estate Management Dashboard
+# Ceylon EstateForge — Real Estate Management Dashboard
 
 A modern, responsive Real Estate Management Dashboard built with React.js. Inspired by the [MockFlow Real Estate Management Dashboard](https://mockflow.com/templates/wireframe/real-estate-management-dashboard) wireframe and designed for property operations workflows from 2026 onward.
 

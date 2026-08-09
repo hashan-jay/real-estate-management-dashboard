@@ -31,7 +31,7 @@ export default function Sidebar({ activePage, onNavigate, open }) {
           <Building2 size={20} />
         </div>
         <div className="brand-text">
-          <strong>EstateForge</strong>
+          <strong>Ceylon Estate Max</strong>
           <span>Property OS · 2026</span>
         </div>
       </div>
